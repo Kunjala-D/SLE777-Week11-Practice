@@ -1,1 +1,1 @@
-Conflict practice: original sentence.
+Conflict practice: GitHub version.
