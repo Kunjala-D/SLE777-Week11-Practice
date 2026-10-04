@@ -1,1 +1,1 @@
-Conflict practice: original sentence.
+Conflict practice: Kunjala's local version.
